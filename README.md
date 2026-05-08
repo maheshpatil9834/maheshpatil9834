@@ -1,112 +1,113 @@
 # Hi there, I'm Mahesh Pakhare 👋
 
-## Azure Cloud Engineer | DevOps Specialist | Kubernetes Expert
+## Cloud & Infrastructure Administrator | Azure | VMware | Windows Server | Linux | PowerShell Automation
 
-I'm a results-driven Azure Cloud Engineer with 4+ years of experience architecting enterprise infrastructure supporting 3000+ VMs with 99.9% uptime. Passionate about cloud optimization, automation, and building scalable solutions.
-
-### 🚀 What I Do
-
-- ☁️ Architect and manage enterprise Azure infrastructure across 15+ subscriptions
-- 🔧 Build Infrastructure as Code solutions with Terraform and Ansible
-- 🐳 Orchestrate containerized applications on AKS with 50+ microservices
-- 📊 Optimize cloud costs (achieved 30% reduction and identified $300K in savings)
-- 🔄 Design and implement CI/CD pipelines with Azure DevOps
-- 🛡️ Ensure security compliance (ISO 27001, SOC 2)
-
-### 💼 Professional Highlights
-
-- **Cloud Migration**: Successfully migrated 500+ workloads to Azure with zero downtime
-- **Automation**: Reduced provisioning time from 3 days to 2 hours (95% faster) using IaC
-- **DevOps**: Achieve 20+ daily deployments with 99.5% success rate
-- **Cost Optimization**: Reduced infrastructure costs by 25% through rightsizing and automation
-- **High Availability**: Maintained 99.9% uptime for 4 years across 3000+ VMs
-
-### 🛠️ Tech Stack
-
-**Cloud & DevOps**
-```
-Azure (IaaS/PaaS/SaaS) • AKS • Azure DevOps • Azure Monitor • Azure AD
-Site Recovery • CI/CD Pipelines • Git • GitOps
-```
-
-**Infrastructure as Code**
-```
-Terraform • Ansible • ARM Templates • Bicep • Configuration Management
-```
-
-**Containers & Orchestration**
-```
-Docker • Kubernetes • Azure Container Registry • Helm • Microservices
-```
-
-**Scripting & Automation**
-```
-PowerShell • Bash • Python • Azure CLI • REST APIs
-```
-
-**Networking**
-```
-VNet • VPN Gateway • NSG • Load Balancer • Application Gateway
-Azure Firewall • DNS • ExpressRoute
-```
-
-**Monitoring & Security**
-```
-Azure Monitor • Log Analytics • Application Insights • Grafana • Prometheus
-KQL • Sentinel • Security Hardening • Compliance
-```
-
-**Operating Systems**
-```
-Linux (Ubuntu, CentOS, RHEL) • Windows Server 2016/2019/2022
-VMware vSphere/ESXi • Citrix Virtual Apps • Hyper-V
-```
-
-### 📊 GitHub Stats
-
-![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshpatil9834&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshpatil9834&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maheshpatil9834&theme=tokyonight&hide_border=true&background=0D1117)
-
-### 🏆 Certifications
-
-- 🥇 **Microsoft Certified: Azure Administrator Associate (AZ-104)** - 2023
-- 🥇 **Microsoft Certified: Azure AI Engineer Associate (AI-102)** - 2023
-- 🥇 **Microsoft Certified: Azure Fundamentals (AZ-900)** - 2022
-
-### 🎯 Key Projects
-
-#### 🌐 Enterprise Cloud Migration
-Migrated 500+ workloads to Azure with zero downtime, achieving 40% performance improvement and maintaining 99.9% SLA
-
-#### 🤖 Infrastructure Automation Platform
-Built comprehensive Terraform-based IaC solution managing 3000+ resources with 60% faster deployment times
-
-#### ⚙️ Kubernetes Orchestration Platform
-Architected production AKS environment with 50+ microservices, GitOps workflows, and 20+ daily releases
-
-#### 💰 Cost Optimization Initiative
-Reduced infrastructure costs by 25% and developed analytics identifying $300K in additional savings opportunities
-
-### 🌱 Currently Exploring
-
-- Advanced Kubernetes patterns and service mesh architectures
-- Cloud-native security practices and zero-trust architectures
-- Multi-cloud strategies and hybrid cloud solutions
-- AI/ML workloads on Azure (Azure OpenAI, Azure ML)
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahesh-pakhare)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maheshpatil9834@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maheshpatil9834)
-
-### 💡 Fun Fact
-
-I love automating repetitive tasks - my scripts save the team 30+ hours weekly! When I'm not in the cloud, you'll find me exploring new DevOps tools and contributing to open-source projects.
+I'm an Infrastructure Administrator with 4.5+ years of experience managing enterprise hybrid infrastructure environments across Microsoft Azure, VMware, Windows Server, and Linux platforms. Passionate about automation, cloud technologies, infrastructure reliability, and building scalable operational solutions.
 
 ---
 
-⭐️ From [maheshpatil9834](https://github.com/maheshpatil9834) | 💼 Open to Cloud Engineer, DevOps Engineer, Kubernetes Specialist, SRE, and Cloud Architect roles
+## 🚀 What I Do
+
+- ☁️ Manage enterprise hybrid cloud infrastructure across Azure and VMware environments
+- 🔧 Automate operational tasks using PowerShell scripting and infrastructure automation
+- 🖥️ Administer Windows Server, Active Directory, DNS, DHCP, GPO, SCCM, and WSUS
+- 🐧 Manage Linux servers including RHEL, Ubuntu, and CentOS
+- 📊 Build proactive monitoring and alerting systems for infrastructure reliability
+- 🛡️ Support backup, disaster recovery, patch management, and security compliance
+
+---
+
+## 💼 Professional Highlights
+
+- **Infrastructure Management**: Managed 300+ Windows and Linux servers in enterprise environments
+- **High Availability**: Maintained 99.9% uptime across hybrid infrastructure platforms
+- **Automation**: Reduced manual IAM operational effort by ~70% using PowerShell automation
+- **Patch Compliance**: Improved enterprise patch compliance to 95%+
+- **Monitoring Automation**: Reduced incident detection time through automated health monitoring
+- **Citrix Support**: Supported 500+ VDI users in Citrix DaaS environments
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+```txt
+Microsoft Azure • Azure VM • Azure Networking • Azure Monitor
+Azure Backup • Azure AD • RBAC • Hybrid Cloud • VMware vSphere
+ESXi • vCenter • Virtualization
+```
+
+### 🖥️ Windows Administration
+```txt
+Windows Server • Active Directory • DNS • DHCP • GPO
+WSUS • SCCM • IIS • Patch Management • Server Hardening
+```
+
+### 🐧 Linux Administration
+```txt
+RHEL • Ubuntu • CentOS • SSH • LVM • Cron Jobs
+Firewall Management • System Monitoring
+```
+
+### ⚙️ Automation & Scripting
+```txt
+PowerShell • Bash Scripting • Infrastructure Automation
+Task Scheduling • Monitoring Automation • Reporting Automation
+```
+
+### 🚀 DevOps & Tools
+```txt
+Terraform • Docker • Git • Azure DevOps • Kubernetes (AKS)
+ServiceNow • SolarWinds • Veeam Backup
+```
+
+---
+
+## 🏆 Certifications
+
+- 🥇 Microsoft Certified: Azure Administrator Associate (AZ-104)
+- 🥇 Microsoft Certified: Azure AI Engineer Associate (AI-102)
+- 🥇 Microsoft Certified: Azure Fundamentals (AZ-900)
+
+---
+
+## 🎯 Key Projects
+
+### ⚙️ PowerShell Patch Automation Framework
+Designed and deployed an end-to-end patch automation solution including pre-patch notifications, post-patch validation, compliance reporting, and automated health checks.
+
+### 📊 Infrastructure Monitoring Automation
+Built PowerShell-based monitoring and alerting solutions for CPU, memory, disk, and Windows service health across enterprise infrastructure.
+
+### ☁️ Azure Hybrid Infrastructure Administration
+Managed Azure IaaS resources including VMs, VNets, NSGs, RBAC, MFA, Azure Backup, and monitoring solutions supporting secure hybrid cloud operations.
+
+### 🔐 Active Directory Automation
+Automated AD user lifecycle management including bulk user creation, password resets, and account management using PowerShell scripting.
+
+---
+
+## 🌱 Currently Exploring
+
+- Terraform Infrastructure as Code (IaC)
+- Azure Cloud Architecture
+- Kubernetes & Containerization
+- Infrastructure Automation at Scale
+- Cloud Security & Governance
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: https://linkedin.com/in/mahesh-pakhare
+- Email: maheshpatil9834@gmail.com
+
+---
+
+## 💡 Fun Fact
+
+I enjoy automating repetitive infrastructure tasks and building solutions that improve operational efficiency, reliability, and monitoring visibility.
+
+---
+
+⭐️ Open to opportunities in Cloud Infrastructure, Azure Administration, Infrastructure Automation, and Hybrid Cloud Engineering.
