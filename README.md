@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maheshpakhare"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/mahesh-pakhare"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:maheshpatil9834@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.naukri.com/mnjuser/profile"><img src="https://img.shields.io/badge/Naukri-4A90D9?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white" alt="Naukri"/></a>
   <img src="https://komarev.com/ghpvc/?username=maheshpakhare&style=for-the-badge&color=0078D4" alt="Profile Views"/>
@@ -175,7 +175,7 @@ certifications:
 I'm open to **Azure Cloud Engineer**, **Platform Engineer**, and **DevOps Engineer** opportunities.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/maheshpakhare">
+  <a href="https://www.linkedin.com/in/mahesh-pakhare">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:maheshpatil9834@gmail.com">
