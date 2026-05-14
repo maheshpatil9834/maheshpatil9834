@@ -186,5 +186,5 @@ I'm open to **Azure Cloud Engineer**, **Platform Engineer**, and **DevOps Engine
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines= Building+reliable+cloud+infrastructure%2C+one+commit+at+a+time." alt="Footer"/> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Building+reliable+cloud+infrastructure%2C+one+commit+at+a+time." alt="Footer"/> 
 </p>
